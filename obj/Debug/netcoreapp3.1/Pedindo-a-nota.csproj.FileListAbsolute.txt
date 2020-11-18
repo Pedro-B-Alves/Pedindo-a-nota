@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\bin\Debug\netcoreapp3.1\Pedindo-a-nota.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\bin\Debug\netcoreapp3.1\Pedindo-a-nota.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\bin\Debug\netcoreapp3.1\Pedindo-a-nota.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\bin\Debug\netcoreapp3.1\Pedindo-a-nota.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\bin\Debug\netcoreapp3.1\Pedindo-a-nota.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\bin\Debug\netcoreapp3.1\Pedindo-a-nota.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Pedindo-a-nota\obj\Debug\netcoreapp3.1\Pedindo-a-nota.genruntimeconfig.cache
